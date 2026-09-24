@@ -1,0 +1,6 @@
+{
+  "name": "Cuttr",
+  "description": "Cuttr - The Best Link Shortener: Shorten links, generate QR codes, and track analytics.",
+  "requestFramePermissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
